@@ -1,6 +1,6 @@
 ﻿namespace Backtrack
 {
-	internal class EmptyValue
+	internal class EmptyCell
 	{
 		public int X { get; set; }
 		public int Y { get; set; }
